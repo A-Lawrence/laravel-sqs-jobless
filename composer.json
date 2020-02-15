@@ -22,10 +22,10 @@
         }
     },
     "extra": {
-    "laravel": {
-        "providers": [
-            "Nollaversio\\SQSJobless\\JoblessSQSServiceProvider"
-        ]
+        "laravel": {
+            "providers": [
+                "Nollaversio\\SQSJobless\\JoblessSQSServiceProvider"
+            ]
+        }
     }
-},
 }
