@@ -20,5 +20,12 @@
         "psr-4": {
             "Nollaversio\\SQSJobless\\": "src/"
         }
+    },
+    "extra": {
+    "laravel": {
+        "providers": [
+            "Nollaversio\SQSJobless\JoblessSQSServiceProvider"
+        ],
     }
+},
 }
